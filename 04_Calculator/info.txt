@@ -1,0 +1,10 @@
+This task involves creating a simple calculator application with a user-friendly interface, estimated to take about 20-30 minutes and classified as easy in difficulty. The objectives are to:
+
+Gain practical experience with Tkinter widgets: Entry for user input, Radiobutton for operation selection, and Button for initiating calculations.
+Learn to organize these widgets using Tkinter's grid manager.
+Implement input validation to ensure users enter valid data (integers or floats), and handle any errors that occur.
+The calculator should have two input fields for arguments, a set of radio buttons for selecting the mathematical operation, and an "Evaluate" button to perform the calculation. The expected behavior is:
+
+If both fields have valid inputs, pressing "Evaluate" displays the result in an information window.
+If either field contains invalid input (like a string or is left empty), an error window should appear, pinpointing the issue and shifting focus to the problematic field.
+Additionally, the calculator needs to handle edge cases such as division by zero. The task focuses on both frontend GUI design and backend logic implementation.
