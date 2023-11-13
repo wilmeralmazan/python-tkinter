@@ -1,9 +1,9 @@
-<h1>Tkinter Labs Repository README</h1>
-<h2>Overview</h2>
-<p>This repository contains a series of lab exercises using the Tkinter library in Python, designed to enhance your skills in GUI development. Each lab is a standalone project focusing on different aspects of Tkinter.</p>
+# Tkinter Labs Repository README
+Overview
+This repository contains a series of lab exercises using the Tkinter library in Python, designed to enhance your skills in GUI development. Each lab is a standalone project focusing on different aspects of Tkinter.</p>
 
 
-<h2>License</h2>
+License
 This project is licensed under the MIT License - see LICENSE.md.
 
-<h3>Happy Coding! 🌟</h3>
+Happy Coding! 🌟
